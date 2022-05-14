@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @koriwayne
-- 👀 I’m a networking student interested in linux
-- 🌱 I’m currently learning ethical hacking and network security
-- 💞️ I’m looking to collaborate on CLI scripting
+- I’m a CyberSecurity student and System Administrator.
+- I’m currently learning ethical hacking and network security
+- I’m looking to collaborate on CLI scripting using python.
+- Linux is the best OS out their. 
 - 📫 koriwayne@protonmail.com
 
 <!---
