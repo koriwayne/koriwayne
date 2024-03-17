@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @koriwayne
-- I’m a CyberSecurity student and System Administrator.
-- I’m currently learning ethical hacking and network security
+- I’m a Computer Science student, C++ programmer and System Administrator.
+- I’m currently learning C++
 - I’m looking to collaborate on CLI scripting using python.
-- Linux is the best OS out their. 
+- Linux is the best OS out there. 
 - 📫 koriwayne@protonmail.com
 
 <!---
